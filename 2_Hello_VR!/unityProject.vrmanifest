@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.hello_world.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Jeremy\\Desktop\\dev\\VR-Tutorial\\2_Hello_VR!\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Hello_World! [Testing]"
+        }
+      }
+    }
+  ]
+}
